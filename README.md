@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+World!)](https://git.io/typing-svg)
 
----
-
 # Hi there 👋, I'm Rafi Nur Ardiansyah!
 
 I'm a Computer Science student at Diponegoro University with a passion for cybersecurity, cloud computing, and backend development. I'm currently expanding my knowledge and working on various projects in these areas.
